@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I see you've stumbled across my GitHub profile. Allow me to introduce myself.
 
 ## About Me
-My name is Jessica Davies, and I'm primarily a website developer, with experience in software development, with a Bachelor of Science (Hons. Computer Science) achievement.
+My name is Jessica Davies, and I'm primarily a website developer, with experience in software development, with a Bachelor of Science (Hons. Computer Science) achievement.<br>
 As of 2025, I'm currently working towards a Master of Science (Hons. Adv Computer Science) achievement at the University of South Wales (USW) to expand my skillset and feel more qualified and confident going into the software industry.
 My passion mainly revolves around web development and UI and UX design, but I have a few other things I like to do in my free time, such as art and writing.
 
