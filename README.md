@@ -17,9 +17,9 @@ I see you've stumbled across my GitHub profile. Allow me to introduce myself.
 
 ## About Me
 My name is Jessica Davies, and I'm primarily a website developer, with experience in software development, with a Bachelor of Science (Hons. Computer Science) achievement.<br>
-As of 2025, I'm currently working towards a Master of Science (Hons. Adv Computer Science) achievement at the University of South Wales (USW) to expand my skillset and feel more qualified and confident going into the software industry.
-My passion mainly revolves around web development and UI and UX design, but I have a few other things I like to do in my free time, such as art and writing.
+As of 2025, I'm currently working towards a Master of Science (Hons. Adv Computer Science) achievement at the University of South Wales (USW) to expand my skillset and feel more qualified and confident going into the software industry.<br>
+My passion mainly revolves around web development and UI and UX design, but I have a few other things I like to do in my free time, such as art and writing.<br>
 
 ## Current Project(s)
-For **university**, I'm working on a group project that involves analysing a fictional project and its goals, then figuring out whether or not the project should get the "OK".
-For **personal work**, I'm creating a text-based game that runs in the browser's console. More info will be released on this soon.
+For **university**, I'm working on a group project that involves analysing a fictional project and its goals, then figuring out whether or not the project should get the "OK".<br>
+For **personal work**, I'm creating a text-based game that runs in the browser's console. More info will be released on this soon.<br>
