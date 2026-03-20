@@ -52,6 +52,13 @@ If you are interested, the link to the survey is <a href="https://forms.cloud.mi
 ### Tools
 - Azure
 
+## Certificates
+Below are certificates for completing various online courses in my free time.
+
+<img src="Programming-Course-Certificates/legacy-responsive-web-design.png" alt="Certification for FreeCodeCamp's (Legacy) Responsive Web Design course" width="400"/>
+
+Completed on January 25th 2025
+
 ## Contact Me
 
 Have an idea and want to work with me to bring it to life?
