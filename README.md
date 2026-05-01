@@ -27,7 +27,9 @@ My passion mainly revolves around web development and UI and UX design, but I ha
 
 ### University
 
-Group project that involves analysing a fictional project and its goals, then figuring out whether or not the project should get the "OK".
+A dissertation-like project proposal with a fully-complete Gantt chart. Mine is titled "Examination and Potential Improvements of the Colour Palettes in Popular Websites’ UI Designs Based on Colour Psychology".
+
+Deadline: 11th May 2026
 
 ### Personal work
 
@@ -47,10 +49,14 @@ If you are interested, the link to the survey is <a href="https://forms.cloud.mi
 - JavaScript
 - HTML
 - CSS
-- React
+- React.js
+- C++
+- Express.js
+- C#
 
 ### Tools
-- Azure
+- Azure (UI Prototype Building & Testing)
+- ProjectLibre (Project Management)
 
 ## Certificates
 Below are certificates for completing various online courses in my free time.
