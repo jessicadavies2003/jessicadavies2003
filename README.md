@@ -27,15 +27,13 @@ My passion mainly revolves around web development and UI and UX design, but I ha
 
 ### University
 
-A dissertation-like project proposal with a fully-complete Gantt chart. Mine is titled "Examination and Potential Improvements of the Colour Palettes in Popular Websites’ UI Designs Based on Colour Psychology".
-
-Deadline: 11th May 2026
+[Nothing to see here, nice!]
 
 ### Personal work
 
-I'm creating a text-based game that runs in the browser's console. More info should be released on this soon.
+Completing the following course: <a href="https://cs50.harvard.edu/web/">CS50 Web Programming with Python and JavaScript</a>. 
 
-Also, a DOMKit testing survey is now avaliable! I need some testers (with experience in website development) to explore and provide feedback on the DOMKit documentation and repository.
+The DOMKit testing survey is now avaliable! I need some testers (with experience in website development) to explore and provide feedback on the DOMKit documentation and repository. The survey will be open until the 5th July 2026.
 
 If you'd like to learn more about this survey, read the Q&A <a href="https://jessicadavies.dev/articles/domkit-survey-qna/">here</a>.
 
