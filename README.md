@@ -47,10 +47,13 @@ If you are interested, the link to the survey is <a href="https://forms.cloud.mi
 - JavaScript
 - HTML
 - CSS
-- React.js
 - C++
-- Express.js
 - C#
+
+### Frameworks
+- React.js
+- Django
+- Express.js
 
 ### Tools
 - Azure (UI Prototype Building & Testing)
@@ -67,7 +70,6 @@ Completed on January 25th 2025
 
 Have an idea and want to work with me to bring it to life?
 
-Email
-- jessydavies@hotmail.com
+Email: jessydavies@hotmail.com
 
 Looking forward to connecting with you!
