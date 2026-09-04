@@ -33,9 +33,9 @@ My passion mainly revolves around web development and UI and UX design, but I ha
 
 The DOMKit testing survey is now avaliable! I need some testers (with experience in website development) to explore and provide feedback on the DOMKit documentation and repository. The survey will be open until the 5th July 2026.
 
-If you'd like to learn more about this survey, read the Q&A <a href="https://jessicadavies.dev/articles/domkit-survey-qna/">here</a>.
+If you'd like to learn more about this survey, read the Q&A <a href="https://jessicadavies.dev/articles/domkit-survey-qna/">here</a>. If you are interested, the link to the survey is <a href="https://forms.cloud.microsoft/r/HPTnCXsfuq">here</a>.
 
-If you are interested, the link to the survey is <a href="https://forms.cloud.microsoft/r/HPTnCXsfuq">here</a>.
+Survey Closes 1st December 2026.
 
 ## Languages and Tools
 
@@ -47,12 +47,15 @@ If you are interested, the link to the survey is <a href="https://forms.cloud.mi
 - CSS
 - C++
 - C#
+- GoLang
 
 ### Frameworks
 - React.js
 - Django
 - Express.js
 - Flask.py
+- Electron.js
+- 
 
 ### Tools
 - Azure (UI Prototype Building & Testing)
