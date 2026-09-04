@@ -55,11 +55,11 @@ Survey Closes 1st December 2026.
 - Express.js
 - Flask.py
 - Electron.js
-- 
 
 ### Tools
 - Azure (UI Prototype Building & Testing)
 - ProjectLibre (Project Management)
+- Postman (API Testing)
 
 ## Certificates
 Below are certificates for completing various online courses in my free time.
